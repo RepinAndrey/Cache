@@ -29,13 +29,14 @@
 
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
 ![img](https://github.com/RepinAndrey/Cache/blob/main/img/2.png)
+![img](https://github.com/RepinAndrey/Cache/blob/main/img/3.png)
+
 
 ### Задание 4. Запись данных в Redis
 
 Запишите в Redis несколько ключей с любыми именами и значениями.
 
 *Через redis-cli достаньте все записанные ключи и значения из базы, приведите скриншот этой операции.*
-![img](https://github.com/RepinAndrey/Cache/blob/main/img/3.png)
 ![img](https://github.com/RepinAndrey/Cache/blob/main/img/4.png)
 
 ### Задание 5. Работа с числами
